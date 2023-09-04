@@ -1,2 +1,2 @@
-№ Hi!
-My name is Lydia Pastukhova
+# Hi!
+## My name is Lydia Pastukhova
